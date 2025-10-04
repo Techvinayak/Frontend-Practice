@@ -1,0 +1,4 @@
+#clickBtn:disabled {
+    background-color: gray;
+    cursor: not-allowed;
+}
