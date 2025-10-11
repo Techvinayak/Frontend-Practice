@@ -1,5 +1,5 @@
 import './App.css';
-import Practicetable from './assignment3';
+// import Practicetable from './assignment3';
 // import Functional from './assignment1';
 // import Table from './assignment3';
 // import Usehook from './useeffect';
@@ -10,6 +10,7 @@ import Practicetable from './assignment3';
 // import Methods from './predefine';
 // import State from './dynamicview';
 // import Calparent from './cal_parent';
+import Page from './page';
 
 function App() {
   return (
@@ -22,7 +23,8 @@ function App() {
       {/* <Data></Data> */}
       {/* <Radio></Radio> */}
       {/* <Usehook></Usehook> */}
-      <Practicetable></Practicetable>
+      {/* <Practicetable></Practicetable> */}
+      <Page></Page>
       {/* <Functional></Functional> */}
 
     </div>
