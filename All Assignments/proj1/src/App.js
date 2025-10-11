@@ -22,7 +22,7 @@ function App() {
       {/* <Data></Data> */}
       {/* <Data></Data> */}
       {/* <Radio></Radio> */}
-      {/* <Usehook></Usehook> */}
+      {/* <Usehook></U~sehook> */}
       {/* <Practicetable></Practicetable> */}
       <Page></Page>
       {/* <Functional></Functional> */}
